@@ -385,6 +385,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sandbox/sandbox-Prefix.pch";
 				INFOPLIST_FILE = "sandbox/sandbox-Info.plist";
@@ -398,6 +399,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "sandbox/sandbox-Prefix.pch";
 				INFOPLIST_FILE = "sandbox/sandbox-Info.plist";
@@ -467,6 +469,7 @@
 				08DFE32118181E6D00EF626B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		08DFE32218181E6D00EF626B /* Build configuration list for PBXNativeTarget "sandboxTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +478,7 @@
 				08DFE32418181E6D00EF626B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
