@@ -1,3 +1,7 @@
 language: objective-c
 xcode_project: sandbox.xcodeproj
 xcode_scheme: sandbox
+before_script:
+	- xcodebuild -version
+	- xctool -v
+xcode_sdk: iphonesimulator
