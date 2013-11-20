@@ -3,5 +3,5 @@ xcode_project: sandbox.xcodeproj
 xcode_scheme: sandbox
 before_script:
   - xcodebuild -version
-  - xctool -v
+  - xctool -version
 xcode_sdk: iphonesimulator
