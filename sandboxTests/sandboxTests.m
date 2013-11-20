@@ -31,4 +31,9 @@
     XCTAssert(1 == 1, @"ok");
 }
 
+- (void)testExmaple2
+{
+    XCTAssert(1 == 2, @"ng");
+}
+
 @end
