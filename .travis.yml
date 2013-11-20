@@ -1,6 +1,6 @@
 language: objective-c
 xcode_project: sandbox.xcodeproj
-xcode_scheme: sandbox
+xcode_scheme: sandboxTests
 before_script:
   - xcodebuild -version
   - xctool -version
