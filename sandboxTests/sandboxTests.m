@@ -33,7 +33,7 @@
 
 - (void)testExmaple2
 {
-    XCTAssert(1 == 2, @"ng");
+    XCTAssert(2 == 2, @"ok");
 }
 
 @end
